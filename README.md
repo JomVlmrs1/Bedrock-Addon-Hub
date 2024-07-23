@@ -1,1 +1,1 @@
-# Bedrock-Addon-Hub
+# Bedrock Addon Hub
